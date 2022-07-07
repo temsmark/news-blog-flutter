@@ -1,7 +1,4 @@
-import 'package:blog/models/article.dart';
 import 'package:blog/views/home_page.dart';
-import 'package:blog/views/article.dart';
-import 'package:blog/views/menu.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:get/get.dart';
